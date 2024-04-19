@@ -1,4 +1,4 @@
-# Evoluția The Cure
+# Evoluția Trupei 'The Cure'
 
 Bine ai venit în călătoria vizuală și interactivă prin istoria iconică a trupei post-punk, The Cure. Acest proiect web își propune să ofere o perspectivă detaliată asupra evoluției trupei de la formarea sa în anul **1976** până în prezent.
 
